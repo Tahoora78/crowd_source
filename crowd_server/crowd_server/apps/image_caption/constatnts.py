@@ -1,0 +1,5 @@
+YES = 1
+NO = 0
+NOT_SURE = 2
+
+THRESHOLD = 5
